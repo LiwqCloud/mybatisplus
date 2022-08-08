@@ -18,4 +18,6 @@ public class Product {
     private String email;
     private String git;
     private String git1;
+    private String git3;
+
 }
