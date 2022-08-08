@@ -16,4 +16,5 @@ public class Product {
     private Integer price;
     private Integer version;
     private String email;
+    private String git;
 }
