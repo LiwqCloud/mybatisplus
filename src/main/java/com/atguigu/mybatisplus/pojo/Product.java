@@ -15,4 +15,5 @@ public class Product {
     private String name;
     private Integer price;
     private Integer version;
+    private String email;
 }
