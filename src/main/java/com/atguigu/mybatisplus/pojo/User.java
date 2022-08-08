@@ -26,6 +26,7 @@ public class User {
     private String email;
     @TableLogic
     private Integer isDeleted;
+    private String password;
 
     public User(Long id, String name, Integer age, String email) {
         this.id = id;
