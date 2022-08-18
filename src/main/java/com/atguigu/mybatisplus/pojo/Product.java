@@ -20,7 +20,7 @@ public class Product {
     private String git1;
     private String git3;
     private String git2;
-    private String git5;private String git6;private String git7;
+    private String git5;private String git6;private String git7;//
     int[] array= new int[]{1,2,3};
     int[] array1 = {1,2,3 };
     int[] array2 = {1,2,3 };
