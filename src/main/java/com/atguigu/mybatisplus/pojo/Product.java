@@ -21,10 +21,13 @@ public class Product {
     private String git3;
     private String git2;
     private String git5;
-    int[] array= new int[]{1,2,3};
-    int[] array1 = {1,2,3 };
-    int[] array2 = {1,2,3 };
-    int[] array3 = {1,2,3 };
-     int[] array4 = {1,2,3 };
-    int[] array5 = {1,2,3 };
+    int[] array = new int[]{1, 2, 3};
+    int[] array1 = {1, 2, 3};
+    int[] array2 = {1, 2, 3};
+    int[] array3 = {1, 2, 3};
+    int[] array4 = {1, 2, 3};
+    int[] array5 = {1, 2, 3};
+    int[] array6 = {1, 2, 3};
+    int[] array7 = {1, 2, 3};
+    int[] array8 = {1, 2, 3};
 }
