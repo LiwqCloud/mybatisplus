@@ -30,4 +30,5 @@ public class Product {
     int[] array6 = {1, 2, 3};
     int[] array7 = {1, 2, 3};
     int[] array8 = {1, 2, 3};
+     int[] array9 = {1, 2, 3}; //远程库修改
 }
