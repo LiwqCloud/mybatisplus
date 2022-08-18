@@ -25,4 +25,6 @@ public class Product {
     int[] array1 = {1,2,3 };
     int[] array2 = {1,2,3 };
     int[] array3 = {1,2,3 };
+     int[] array4 = {1,2,3 };
+    int[] array5 = {1,2,3 };
 }
