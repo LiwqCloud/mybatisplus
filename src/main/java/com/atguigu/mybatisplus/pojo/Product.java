@@ -21,4 +21,8 @@ public class Product {
     private String git3;
     private String git2;
     private String git5;
+    int[] array= new int[]{1,2,3};
+    int[] array1 = {1,2,3 };
+    int[] array2 = {1,2,3 };
+    int[] array3 = {1,2,3 };
 }
